@@ -1,0 +1,8 @@
+first_name,last_name,address,region,zip,country,email,username
+A,A,C,d,1234,United States,a@b.c,k
+A,A,C,d,456789,United States,a@b.c,k
+A,A,C,d,12345678,United States,a@b.c,k
+A,A,C,d,3336669995,United States,a@b.c,k
+A,A,C,d,b,United States,a@b.c,k
+A,A,C,d,FFFFF,United States,a@b.c,k
+A,A,C,d,%%%%%,United States,a@b.c,k

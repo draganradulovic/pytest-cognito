@@ -1,0 +1,7 @@
+first_name, last_name, ssn, address1, address2, region,zip,country,bitrh_date,death_date,email,work_phone,preffered_contact,maritial_status,health_behaviors,username,photo_name
+A,B,789456123,C,,d,12345,United States,,,a@b.c,,,,,k,
+A,B,1,C,,d,12345,United States,,,a@b.c,,,,,k,
+A,B,pppkkkddd,C,,d,12345,United States,,,a@b.c,,,,,k,
+A,B,P,C,,d,12345,United States,,,a@b.c,,,,,k,
+A,B,$,C,,d,12345,United States,,,a@b.c,,,,,k,
+A,B,789456123,C,,d,12345,United States,,,a@b.c,,,,,k,

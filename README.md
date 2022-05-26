@@ -1,7 +1,7 @@
 # pytest-cognito
 In this project, the web page being tested is "Cognito" form, used for creating new users for medical insurance purposes.\
 (Fictional purpose for testing project only)\
-URL:https://www.cognitoforms.com/Tina8/CreateNew
+URL: "https://www.cognitoforms.com/Tina8/CreateNew"
 
 This form contains a number of functional and UI errors, which makes it suitable for QA exercise.\
 Program executes positive test cases and negative test cases, based on documentation.\
